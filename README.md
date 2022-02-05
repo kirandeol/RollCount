@@ -1,5 +1,6 @@
 # RollCount
 Here is an Android app which allows a user to track basic statistics on dice rolls across their personal game sessions. Compatible with up to 3 dice of 6 sides. 
+
 **Requirements**:
 - Simply open in Android studio and run on your preferred emulator or device.
 
